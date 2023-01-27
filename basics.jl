@@ -25,7 +25,7 @@ end
 
 # Fct Call
 result = add(x,y)
-printls(result)
+println(result)
 
 # Array
 arr = [1,2,3,4,5]
