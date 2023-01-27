@@ -43,5 +43,5 @@ my_dict_1 = my_dict["a"]
 
 # Dict Iteration
 for (key, value) in my_dict
-  print(key, ":", value)
+  println(key, ":", value)
 end
